@@ -152,6 +152,8 @@ async function getWeather(){
 }
 ```
 ## Output:
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/cb24f29a-8392-4632-a24b-a6ef0f917e3c" />
+
 
 ## Result:
 A mini module that successfully uses Promises and async/await to handle real-time API data, reinforcing asynchronous JavaScript patterns in a practical context.
